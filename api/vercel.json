@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/ig-views.js": {
+      "runtime": "edge"
+    }
+  }
+}
